@@ -182,3 +182,7 @@ cython_debug/
 # Project specific
 sales_report.xlsx
 automation.log
+# PyInstaller
+build/
+dist/
+*.spec
